@@ -13,4 +13,5 @@ public class NotalAluguel {
 
     private double preço;
     private LocalDate dataEntrega;
+    private int pontuacao;
 }

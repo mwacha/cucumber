@@ -14,6 +14,11 @@
     <remote-repository>
       <option name="id" value="central" />
       <option name="name" value="Central Repository" />
+      <option name="url" value="http://devops.m3dev.biz:58088/repository/maven-group/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
       <option name="url" value="http://repo.contaazul.ninja:8081/nexus/content/groups/external/" />
     </remote-repository>
   </component>

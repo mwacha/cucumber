@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="CursoCucumber" />
+        <module name="cucumber" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="11" />
