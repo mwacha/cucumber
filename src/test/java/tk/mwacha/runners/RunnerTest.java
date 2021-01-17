@@ -9,5 +9,5 @@ import org.junit.runner.RunWith;
 monochrome = true, snippets = CucumberOptions.SnippetType.CAMELCASE,
 features = "src/test/resources/features/aprender.cucumber.feature",
 glue = "tk.mwacha.steps")
-public class Runner {
+public class RunnerTest {
 }

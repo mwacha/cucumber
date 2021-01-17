@@ -9,5 +9,5 @@ import org.junit.runner.RunWith;
 monochrome = true, snippets = CucumberOptions.SnippetType.CAMELCASE,
 features = "src/test/resources/features/alugar_filme.feature",
 glue = "tk.mwacha.steps")
-public class AlugarFilmeRunner {
+public class AlugarFilmeRunnerTest {
 }
